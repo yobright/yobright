@@ -1,6 +1,6 @@
-## Hey, I'm Gérald M'Bahia (kasskoo) 👋
+## Hey 👋, I'm Gérald M'Bahia (kasskoo) 
 
-### Currently Lead Front-end Developer at IvoireDev 🚀
+### 🚀 Currently Lead Front-end Developer at IvoireDev (Abidjan, Côte d'Ivoire) 
 #### 🎨 Enjoy experimenting technologies/tools with creative ideas to build modern and powerful stuff. 
  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
