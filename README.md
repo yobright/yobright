@@ -1,6 +1,6 @@
 # yo - 
 
-## Full Stack Developer, Co-founder Bright Studio, Co-founder & CTO Babiverse 
+## Full Stack Developer, CEO Bright Studio, Founder Babiverse 
 
 ### (Abidjan, Côte d'Ivoire)
 
